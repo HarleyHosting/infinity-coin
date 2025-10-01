@@ -2,7 +2,7 @@
   "name": "Infinity Solana Coin",
   "symbol": "ISC",
   "description": "The first token I can make",
-  "image": "https://via.placeholder.com/512.png?text=HHC",
+  "image": "https://raw.githubusercontent.com/HarleyHosting/infinity-coin/main/icon.png",
   "extensions": {
     "website": "https://isc.me"
   }
